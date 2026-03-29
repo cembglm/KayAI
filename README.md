@@ -76,9 +76,3 @@ python enrich_all_rocks.py
 ```bash
 streamlit run app.py
 ```
-
-## Güvenlik Notları
-
-- API anahtarlarını repoya commit etmeyin.
-- .gitignore içinde .streamlit ve .env dosyaları hariç tutulmuştur.
-- Daha önce paylaşılmış anahtar varsa derhal iptal edip yenisini üretin.
